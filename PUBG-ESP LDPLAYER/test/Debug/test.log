@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Chronocruz ESP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ESPWork.cpp
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(134,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(184,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(184,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(189,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(189,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(194,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(194,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(197,47): warning C4305: 'argument': truncation from 'D3DCOLOR' to 'float'
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(199,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\ESPWork.cpp(199,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+  MemoryManager.cpp
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\MemoryManager.cpp(69,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\MemoryManager.cpp(124,24): warning C4018: '>=': signed/unsigned mismatch
+  DirectXM.cpp
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\test\DirectXM.cpp(38,34): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Generating Code...
+  test.vcxproj -> C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\PUBG-ESP LDPLAYER\Debug\XDWOLF ESP.exe
